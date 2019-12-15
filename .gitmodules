@@ -55,3 +55,18 @@
 [submodule "util/sparkbook"]
 	path = util/sparkbook
 	url = git@github.com:SimiaCryptus/sparkbook.git
+[submodule "misc/CharacterTrie"]
+	path = misc/CharacterTrie
+	url = git@github.com:SimiaCryptus/CharacterTrie.git
+[submodule "misc/tf-gpt-2"]
+	path = misc/tf-gpt-2
+	url = git@github.com:SimiaCryptus/tf-gpt-2.git
+[submodule "misc/mindseye-labs"]
+	path = misc/mindseye-labs
+	url = git@github.com:SimiaCryptus/mindseye-labs.git
+[submodule "misc/SparkTree"]
+	path = misc/SparkTree
+	url = git@github.com:SimiaCryptus/SparkTree.git
+[submodule "misc/mindseye-text"]
+	path = misc/mindseye-text
+	url = git@github.com:SimiaCryptus/mindseye-text.git
