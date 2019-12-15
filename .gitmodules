@@ -1,0 +1,72 @@
+[submodule "mindseye/mindseye-core"]
+	path = mindseye/mindseye-core
+	url = git@github.com:SimiaCryptus/mindseye-core.git
+[submodule "mindseye/mindseye-java"]
+	path = mindseye/mindseye-java
+	url = git@github.com:SimiaCryptus/mindseye-java.git
+[submodule "mindseye/mindseye-cudnn"]
+	path = mindseye/mindseye-cudnn
+	url = git@github.com:SimiaCryptus/mindseye-cudnn.git
+[submodule "mindseye/mindseye-test"]
+	path = mindseye/mindseye-test
+	url = git@github.com:SimiaCryptus/mindseye-test.git
+[submodule "mindseye/mindseye-tensorflow"]
+	path = mindseye/mindseye-tensorflow
+	url = git@github.com:SimiaCryptus/mindseye-tensorflow.git
+[submodule "mindseye/mindseye-aparapi"]
+	path = mindseye/mindseye-aparapi
+	url = git@github.com:SimiaCryptus/mindseye-aparapi.git
+[submodule "util/aws-utilities"]
+	path = util/aws-utilities
+	url = git@github.com:SimiaCryptus/aws-utilities.git
+[submodule "deepartist/examples.deepartist.org"]
+	path = deepartist/examples.deepartist.org
+	url = git@github.com:SimiaCryptus/examples.deepartist.org.git
+[submodule "deepartist/deepartist.org"]
+	path = deepartist/deepartist.org
+	url = git@github.com:SimiaCryptus/deepartist.org.git
+[submodule "mvn-parents"]
+	path = mvn-parents
+	url = git@github.com:SimiaCryptus/mvn-parents.git
+[submodule "java-reference-counter"]
+	path = java-reference-counter
+	url = git@github.com:SimiaCryptus/java-reference-counter.git
+[submodule "util/java-utilities"]
+	path = util/java-utilities
+	url = git@github.com:SimiaCryptus/java-utilities.git
+[submodule "util/literate-reporting"]
+	path = util/literate-reporting
+	url = git@github.com:SimiaCryptus/literate-reporting.git
+[submodule "util/tensorflow-model"]
+	path = util/tensorflow-model
+	url = git@github.com:SimiaCryptus/tensorflow-model.git
+[submodule "util/java-analysis"]
+	path = util/java-analysis
+	url = git@github.com:SimiaCryptus/JavaAnalysis.git
+[submodule "deepartist/mindseye-art"]
+	path = deepartist/mindseye-art
+	url = git@github.com:SimiaCryptus/mindseye-art.git
+[submodule "util/hadoop-jgit-fs"]
+	path = util/hadoop-jgit-fs
+	url = git@github.com:SimiaCryptus/hadoop-jgit-fs.git
+[submodule "mindseye/mindseye-research"]
+	path = mindseye/mindseye-research
+	url = git@github.com:SimiaCryptus/mindseye-research.git
+[submodule "util/sparkbook"]
+	path = util/sparkbook
+	url = git@github.com:SimiaCryptus/sparkbook.git
+[submodule "misc/CharacterTrie"]
+	path = misc/CharacterTrie
+	url = git@github.com:SimiaCryptus/CharacterTrie.git
+[submodule "misc/SparkTree"]
+	path = misc/SparkTree
+	url = git@github.com:SimiaCryptus/SparkTree.git
+[submodule "misc/mindseye-text"]
+	path = misc/mindseye-text
+	url = git@github.com:SimiaCryptus/mindseye-text.git
+[submodule "misc/mindseye-labs"]
+	path = misc/mindseye-labs
+	url = git@github.com:SimiaCryptus/mindseye-labs.git
+[submodule "misc/tf-gpt-2"]
+	path = misc/tf-gpt-2
+	url = git@github.com:SimiaCryptus/tf-gpt-2.git
