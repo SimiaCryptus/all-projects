@@ -55,6 +55,7 @@
     <modules>
         <module>mvn-parents</module>
         <module>util</module>
+        <module>misc</module>
         <module>mindseye</module>
         <module>deepartist</module>
         <module>java-reference-counter</module>

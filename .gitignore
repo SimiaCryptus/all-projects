@@ -1,3 +1,4 @@
+all-projects.iml
 buildNumber.properties
 dependency-reduced-pom.xml
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
