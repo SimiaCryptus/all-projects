@@ -3,6 +3,7 @@ buildNumber.properties
 dependency-reduced-pom.xml
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .idea/
+logs/
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 pom.xml.next
