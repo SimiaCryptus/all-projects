@@ -13,4 +13,6 @@ pom.xml.versionsBackup
 release.properties
 target/
 *.hprof
+report/
+*.h5
 
