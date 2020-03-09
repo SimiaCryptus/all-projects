@@ -18,3 +18,5 @@ report/
 ./*.json
 *.zip
 *.gz
+*.pem
+*.json
