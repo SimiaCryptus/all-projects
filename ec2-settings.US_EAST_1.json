@@ -1,0 +1,5 @@
+{
+  "securityGroup" : "sg-0ec421448a2748215",
+  "instanceProfileArn" : "arn:aws:iam::470240306861:instance-profile/runpol-f1abd",
+  "bucket" : "data-b55f4"
+}

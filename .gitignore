@@ -15,4 +15,6 @@ target/
 *.hprof
 report/
 *.h5
-
+./*.json
+*.zip
+*.gz
