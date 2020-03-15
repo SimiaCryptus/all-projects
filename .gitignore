@@ -4,6 +4,7 @@ dependency-reduced-pom.xml
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .idea/
 logs/
+reports/
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 pom.xml.next
