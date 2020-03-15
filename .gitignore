@@ -21,3 +21,4 @@ report/
 *.pem
 *.json
 *.ppk
+build.log
