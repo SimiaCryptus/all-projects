@@ -60,5 +60,6 @@
         <module>java-analysis</module>
         <module>hadoop-jgit-fs</module>
         <module>sparkbook</module>
+        <module>test-reporter</module>
     </modules>
 </project>
