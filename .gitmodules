@@ -73,3 +73,6 @@
 [submodule "third-party/flexmark"]
 	path = third-party/flexmark
 	url = git@github.com:SimiaCryptus/flexmark-java.git
+[submodule "deepartist/descent-animator"]
+	path = deepartist/descent-animator
+	url = git@github.com:SimiaCryptus/descent-animator.git
