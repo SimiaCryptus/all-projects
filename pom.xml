@@ -24,13 +24,13 @@
     <parent>
         <groupId>com.simiacryptus</groupId>
         <artifactId>java-parent</artifactId>
-        <version>2.0.0</version>
+        <version>MINDSEYE-SNAPSHOT</version>
         <relativePath>mvn-parents/java-parent</relativePath>
     </parent>
 
     <groupId>com.simiacryptus</groupId>
     <artifactId>all-projects</artifactId>
-    <version>2.0.0</version>
+    <version>MINDSEYE-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <url>https://simiacryptus.github.io/${github.project}/</url>
@@ -45,12 +45,7 @@
         <github.global.userName></github.global.userName>
         <github.global.oauth2Token></github.global.oauth2Token>
     </properties>
-    <distributionManagement>
-        <site>
-            <id>github</id>
-            <url>https://simiacryptus.github.io/${github.project}/</url>
-        </site>
-    </distributionManagement>
+
 
     <modules>
         <module>mvn-parents</module>
@@ -61,4 +56,18 @@
         <module>java-reference-counter</module>
         <module>third-party/flexmark</module>
     </modules>
+
+    <profiles>
+        <profile>
+            <id>release</id>
+            <modules>
+                <module>mvn-parents</module>
+                <module>util</module>
+                <module>misc</module>
+                <module>mindseye</module>
+                <module>deepartist</module>
+                <module>java-reference-counter</module>
+            </modules>
+        </profile>
+    </profiles>
 </project>
