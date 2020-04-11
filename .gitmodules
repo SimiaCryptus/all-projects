@@ -76,3 +76,6 @@
 [submodule "deepartist/descent-animator"]
 	path = deepartist/descent-animator
 	url = git@github.com:SimiaCryptus/descent-animator.git
+[submodule "third-party/aws-s3-maven"]
+	path = third-party/aws-s3-maven
+	url = git@github.com:SimiaCryptus/aws-s3-maven.git
