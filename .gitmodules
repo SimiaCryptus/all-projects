@@ -79,3 +79,9 @@
 [submodule "third-party/aws-s3-maven"]
 	path = third-party/aws-s3-maven
 	url = git@github.com:SimiaCryptus/aws-s3-maven.git
+[submodule "third-party/maven-site-plugin"]
+	path = third-party/maven-site-plugin
+	url = https://github.com/apache/maven-site-plugin.git
+[submodule "third-party/maven-wagon"]
+	path = third-party/maven-wagon
+	url = https://github.com/apache/maven-wagon.git
