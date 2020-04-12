@@ -64,6 +64,8 @@
                 <module>third-party/flexmark</module>
                 -->
                 <module>third-party/aws-s3-maven</module>
+                <module>third-party/maven-wagon</module>
+                <module>third-party/maven-site-plugin</module>
             </modules>
         </profile>
         <profile>
