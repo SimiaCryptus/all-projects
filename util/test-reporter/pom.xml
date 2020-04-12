@@ -30,7 +30,7 @@
 
     <artifactId>test-reporter</artifactId>
     <description>Aggregation Reports for Test Results</description>
-    <url>https://simiacryptus.github.io/${github.project}/</url>
+
 
     <properties>
 
