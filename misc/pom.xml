@@ -33,14 +33,10 @@
     <version>MINDSEYE-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-
-
-
     <properties>
         <github.global.userName></github.global.userName>
         <github.global.oauth2Token></github.global.oauth2Token>
     </properties>
-
 
     <modules>
         <module>CharacterTrie</module>
