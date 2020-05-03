@@ -140,6 +140,7 @@
     <url>http://code.simiacrypt.us/release/${project.version}/test-reporter</url>
     <distributionManagement>
         <site>
+            <id>simiacryptus</id>
             <url>s3://code.simiacrypt.us/release/${project.version}/test-reporter</url>
         </site>
     </distributionManagement>
