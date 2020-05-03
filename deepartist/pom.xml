@@ -23,9 +23,9 @@
 
     <parent>
         <groupId>com.simiacryptus</groupId>
-        <artifactId>java-parent</artifactId>
+        <artifactId>scala-parent</artifactId>
         <version>MINDSEYE-SNAPSHOT</version>
-        <relativePath>../mvn-parents/java-parent</relativePath>
+        <relativePath>../mvn-parents/scala-parent</relativePath>
     </parent>
 
     <groupId>com.simiacryptus</groupId>

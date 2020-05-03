@@ -53,8 +53,8 @@
                 <module>java-reference-counter</module>
                 <!--
                 <module>third-party/flexmark</module>
-                -->
                 <module>third-party/aws-s3-maven</module>
+                -->
             </modules>
         </profile>
         <profile>
