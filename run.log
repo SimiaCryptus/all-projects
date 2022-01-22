@@ -19147,3 +19147,37 @@ Wrote C:\Users\andre\code\all-projects\report\BigTextureTiles\13ad334c-1f3f-49a8
 
 <a id="p-192"></a>th(0)=-0.14032696187496185;dx=-8.861893363323187E-10
 
+<a id="p-193"></a>New Minimum: -0.14032696187496185 > -0.1433090716600418
+
+<a id="p-194"></a>WOLF (strong): th(4.524312849066958E7)=-0.1433090716600418; dx=3.3687305961983025E-10 evalInputDelta=0.002982109785079956
+
+<a id="p-195"></a>New Minimum: -0.1433090716600418 > -0.14847860485315323
+
+<a id="p-196"></a>END: th(2.262156424533479E7)=-0.14847860485315323; dx=-5.2564276077497405E-11 evalInputDelta=0.008151642978191376
+
+<a id="p-197"></a>Fitness changed from -0.14032696187496185 to -0.14847860485315323
+
+<a id="p-198"></a>Iteration 13 complete. Error: -0.14847860485315323 Total: 27.0370; Orientation: 0.1719; Line Search: 20.1906
+
+### <a id="p-199"></a>Iteration 14
+
+<a id="p-201"></a><a id="p-200"></a>![Iteration 14](etc/cfe0f6dc-0d18-4e43-b0aa-58196cc10000.jpg)
+
+<a id="p-202"></a>Adding measurement 7de92b2e to history. Total: 3
+
+<a id="p-203"></a>Rejected: LBFGS Orientation magnitude: 2.008e+03, gradient 2.986e-05, dot -0.497; [fdef60b9-6c2a-4ddc-bdc1-473fae17940e = 1.000/1.000e+00]
+
+<a id="p-204"></a>Orientation rejected. Popping history element from -0.14847860485315323, 0.3342524543404579, 0.7453049793839455, 1.135411024093628
+
+<a id="p-205"></a>LBFGS Accumulation History: 3 points
+
+<a id="p-206"></a>Removed measurement 7de92b2e to history. Total: 3
+
+<a id="p-207"></a>th(0)=-0.14847860485315323;dx=-8.9187236617278E-10
+
+<a id="p-208"></a>Armijo: th(4.87366827529342E7)=-0.14742304012179375; dx=4.4118470861620703E-10 evalInputDelta=-0.0010555647313594818
+
+<a id="p-209"></a>New Minimum: -0.14847860485315323 > -0.15558679401874542
+
+<a id="p-210"></a>WOLF (strong): th(2.43683413764671E7)=-0.15558679401874542; dx=4.6696456500255254E-11 evalInputDelta=0.007108189165592194
+
