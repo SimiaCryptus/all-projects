@@ -25,3 +25,5 @@ report/
 reports/
 target/
 wikiart/
+http_cache/
+*.log
